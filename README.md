@@ -1,0 +1,1 @@
+Aqui vamos a insertar un nuevo empleado con la consulta de insert y introduciendo unos valores que les vamos a asisgnar a sus diferentes columnas de la tabla que corresponden con el id, nombre y salario.
